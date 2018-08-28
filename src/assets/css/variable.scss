@@ -1,0 +1,24 @@
+//颜色
+$bgColor: #f2f2f2; //背景色
+$mainColor: #3886f8; //主色
+
+//字体颜色
+$fontMainColor: #333;
+$fontSecondaryColor: #AAA;
+
+//字体大小
+$fontSizeBig: 32px;
+$fontSizeMiddle: 30px;
+$fontSizeSmall: 28px;
+
+:root{
+    --bgColor: #f2f2f2; //背景色
+    --mainColor: #3886f8; //主色
+    --fontMainColor: #333; //字体主色
+    --fontSecondaryColor: #AAA; //字体辅色
+    --fontSizeBig: 32px; //常用字号大
+    --fontSizeMiddle: 30px; //常用字号中
+    --fontSizeSmall: 28px; //常用字号小
+}
+
+// body{background: var(--mainColor);}
